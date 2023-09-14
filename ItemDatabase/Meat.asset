@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe1eece8aadcff440b03463f2f3e0b3a, type: 3}
+  m_Name: Meat
+  m_EditorClassIdentifier: 
+  itemSprite: {fileID: 5690984252577737782, guid: 7ff19eb271a3a454db17e2994a3b1900,
+    type: 3}
+  type: 0
+  itemName: Meat
+  item_sell_price: 50
+  item_buy_price: 100
+  healthRegen: 45

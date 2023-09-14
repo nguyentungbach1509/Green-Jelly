@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44babb5cf5186534dabe0cbb5a7a5f1d, type: 3}
+  m_Name: Ultra Gem
+  m_EditorClassIdentifier: Assembly-CSharp::GEmItem
+  itemSprite: {fileID: 7301479720404975506, guid: ab84dee106e44b349b79ed99aa100f32,
+    type: 3}
+  type: 1
+  itemName: Ultra Gem
+  item_sell_price: 0
+  item_buy_price: 5000
+  level: 5
+  dmg_bonus: 50
